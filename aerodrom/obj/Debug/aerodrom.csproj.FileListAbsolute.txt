@@ -1,0 +1,13 @@
+C:\Users\Mihail Zafirovski\Desktop\aerodrom\aerodrom\bin\Debug\aerodrom.exe.config
+C:\Users\Mihail Zafirovski\Desktop\aerodrom\aerodrom\bin\Debug\aerodrom.exe
+C:\Users\Mihail Zafirovski\Desktop\aerodrom\aerodrom\bin\Debug\aerodrom.pdb
+C:\Users\Mihail Zafirovski\Desktop\aerodrom\aerodrom\obj\Debug\aerodrom.csprojResolveAssemblyReference.cache
+C:\Users\Mihail Zafirovski\Desktop\aerodrom\aerodrom\obj\Debug\aerodrom.AerodromForm.resources
+C:\Users\Mihail Zafirovski\Desktop\aerodrom\aerodrom\obj\Debug\aerodrom.Form1.resources
+C:\Users\Mihail Zafirovski\Desktop\aerodrom\aerodrom\obj\Debug\aerodrom.Properties.Resources.resources
+C:\Users\Mihail Zafirovski\Desktop\aerodrom\aerodrom\obj\Debug\aerodrom.csproj.GenerateResource.Cache
+C:\Users\Mihail Zafirovski\Desktop\aerodrom\aerodrom\obj\Debug\aerodrom.csproj.CoreCompileInputs.cache
+C:\Users\Mihail Zafirovski\Desktop\aerodrom\aerodrom\obj\Debug\aerodrom.exe
+C:\Users\Mihail Zafirovski\Desktop\aerodrom\aerodrom\obj\Debug\aerodrom.pdb
+C:\Users\Mihail Zafirovski\Desktop\aerodrom\aerodrom\obj\Debug\aerodrom.YesNo.resources
+C:\Users\Mihail Zafirovski\Desktop\aerodrom\aerodrom\obj\Debug\aerodrom.DestinationForm.resources
